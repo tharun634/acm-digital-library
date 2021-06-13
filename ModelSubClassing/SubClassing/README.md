@@ -322,8 +322,8 @@ And just like that, you now know how to build any model you wish, to your desire
 
 Jump To: 
 
-1. [Home](../README.md)
-2. [Sequential API](../Sequential/README.md)
-3. [Functional API](../Functional/README.md)
+1. [Home](../)
+2. [Sequential API](../Sequential/)
+3. [Functional API](../Functional/)
 
 </section>

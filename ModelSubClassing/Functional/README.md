@@ -73,7 +73,7 @@ Moreover, we can add more customizability to our layers (at the cost of being a 
 
 Jump To: 
 
-1. [Home](../README.md)
-2. [Sequential API](../Sequential/README.md)
-3. [SubClassing API and Custom Loop Creation](../SubClassing/README.md) 
+1. [Home](../)
+2. [Sequential API](../Sequential/)
+3. [SubClassing API and Custom Loop Creation](../SubClassing/) 
 

@@ -8,9 +8,9 @@ Creating your first model can be tough, especially if you're an absolute beginne
 
 Tensorflow 2.x and Keras have 3 separate APIs to make models
 
-1. [Sequential API](Sequential/README.md)
-2. [Functional API](Functional/README.md)
-3. [SubClassing API & Custom Loop Creation](SubClassing/README.md) 
+1. [Sequential API](Sequential/)
+2. [Functional API](Functional/)
+3. [SubClassing API & Custom Loop Creation](SubClassing/) 
    
 Depending on your proficiency level, you can follow through the whole document, or jump directly to the section you want to learn. 
 
@@ -69,9 +69,9 @@ test_gen = test_gen.batch(batch_size = 32).shuffle(buffer_size = 1000)
 
 Jump To: 
 
-1. [Sequential API](Sequential/README.md)
-2. [Functional API](Functional/README.md)
-3. [SubClassing API and Custom Loop Creation](SubClassing/README.md) 
+1. [Sequential API](Sequential/)
+2. [Functional API](Functional/)
+3. [SubClassing API and Custom Loop Creation](SubClassing/) 
 
 For more information, check out the following links:
 

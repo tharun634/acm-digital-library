@@ -67,6 +67,6 @@ Check out the [Functional API](../Functional/README.md)
 
 Jump To: 
 
-1. [Home](../README.md)
-2. [Functional API](../Functional/README.md)
-3. [SubClassing API and Custom Loop Creation](../SubClassing/README.md) 
+1. [Home](../)
+2. [Functional API](../Functional/)
+3. [SubClassing API and Custom Loop Creation](../SubClassing/) 
