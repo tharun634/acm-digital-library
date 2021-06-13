@@ -200,9 +200,10 @@ subClassModel.evaluate(test_gen)
 <br>
 <br>
 
-<section id="train">
+<a name="train">
 
-# Custom Training Loop 
+# Custom Training Loop
+</a> 
 
 Let's say you have a specific way you want your training loop to run. Usually, we just run the .fit() method on the model to perform the training. But for added customizability to our training loop, we can strip it down to its lower level implementations and add changes there. 
 
