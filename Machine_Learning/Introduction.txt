@@ -1,0 +1,8 @@
+Machine Learning: The Future Prospect.
+
+ML is one of the industry-leading sectors and evergrowing at that. It deems to get a higher stance for professional development if one has to consider the broad aspect of spectra those fields open up.
+The terms often are used as a collective noun for the sub areas that it encompasses, there are beyond exhaustive topics that have been popular lately and in active research and development, yet everyday new prospects pop up which pose completely different problems to be solved and algorithms to be designed. Hence having a quintessential understanding and knowledge about Machine Learning would help in any possible field out there, in the long run. 
+
+Later articles shall delve deeper in to these topics at a depth and help the reader in understanding the fundamental concepts of Machine Learning and the perks of it.
+
+Harshal Dhake
