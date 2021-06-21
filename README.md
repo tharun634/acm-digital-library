@@ -2,4 +2,4 @@
 ACM Digital Library
 
 - [Embedded Systems and IoT](Embedded_Systems_and_IoT/)
-- [Machine Learning](Machine_Learning/Readme.md)
+- [Machine Learning](Machine_Learning/)
