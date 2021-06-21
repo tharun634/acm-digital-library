@@ -5,7 +5,7 @@ Machine Learning involves good amount of mathematics and there are several resou
 
 - [Machine Learning, Andrew Ng, Standford, Coursera course](https://www.coursera.org/learn/machine-learning) : Audit this course for getting a complete introduction to Machine Learning and its paradigms. This will be an excellent base for clearing the foundation.
 
-- [Mathematics for Machine Learning](acm-digital-library/Machine_Learning/Resources/mml-book.pdf) : For those who prefer understanding the extreme mathematics that Machine Learning encompasses. Useful for folks interested in the Research Domain.
+- [Mathematics for Machine Learning](Resources/mml-book.pdf) : For those who prefer understanding the extreme mathematics that Machine Learning encompasses. Useful for folks interested in the Research Domain.
 - [IBM Machine Learning Specialization](https://www.coursera.org/professional-certificates/ibm-machine-learning) : Audit the courses under this specialization if one is interested in learning specific topics of Machine Learning like:
     - Data Analysis for ML.
     - Supervised Learning using the Regression Paradigm
