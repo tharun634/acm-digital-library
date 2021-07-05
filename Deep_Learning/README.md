@@ -13,7 +13,7 @@ Some examples from the **Real World Industry** emphasize the importance of *Deep
 And several others applications in numerous small scale to large scale industries.
 
 ## How Deep Learning Works?
-Deep Learning is heavily dependent upon [**Neural Network Architectures**](NeuralNetworks.md) and hence refered to as *Deep Neural Networks*. 
+Deep Learning is heavily dependent upon [**Neural Network Architectures**](Neural_Networks/) and hence refered to as *Deep Neural Networks*. 
 Basic Neural Networks look like, 
 ![Neural Network Image](https://in.mathworks.com/discovery/deep-learning/_jcr_content/mainParsys/band_2123350969_copy_1983242569/mainParsys/columns_1635259577/1/image_2128876021_cop_1731669336.adapt.1200.medium.svg/1620108057485.svg/)
 >Source: in.mathworks.com
