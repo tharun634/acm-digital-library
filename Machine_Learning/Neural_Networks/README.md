@@ -16,3 +16,7 @@ There are mainly 3 important types of **Neural Networks (NN)** that form the fou
     * [**Recurrent Neural Networks at Depth, Medium**](https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce) - After digesting the first article, this article shall delve deeper into the concepts of RNN and the terms associated with it.
     * [**Recurrent Neural Networks Cheatsheet, Stanford**](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks) - For the more experienced readers, this article shall provide for the some of the advanced know-hows in the field of NLP.
 - **Artificial Neural Networks (ANN)** : A beginner article that would be best to get started with is, [*Guide to ANN, Medium*](https://towardsdatascience.com/an-illustrated-guide-to-artificial-neural-networks-f149a549ba74)
+
+## Sub Categories:
+1. [Deep Learning](Deep_Learning)
+2. [Model SubClassing](ModelSubClassing)
