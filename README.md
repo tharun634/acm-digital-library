@@ -5,4 +5,5 @@ ACM Digital Library
 - [Machine Learning](Machine_Learning/)
   - [Neural Networks](Machine_Learning/Neural_Networks/)
     - [Deep Learning](Machine_Learning/Neural_Networks/Deep_Learning/) 
+    - [Model SubClassing](Machine_Learning/Neural_Networks/ModelSubClassing)
 
