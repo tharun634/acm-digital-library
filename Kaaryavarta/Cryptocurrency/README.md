@@ -2,7 +2,7 @@
 
 This guide will encompass everything you need to start investing in Cryptocurrencies and also building decentralised applications on the blockchain. Investing resources will be in the 'Investing' folder whereas this guide whereas this guide will give learning resources that you can follow step by step to start building dapps.
 
-> Note: This is a guide to start learning blockchain development so all the resources mentioned are beginner friendly. If you're looking for intermediate to advanced resources check out [CryptoDevHub](https://cryptodevhub.io/wiki), [useWeb3](https://www.useweb3.xyz/), [Ethereum.org](https://ethereum.org/en/developers/docs/) to find more.
+> Note: This is a guide to start learning blockchain development so all the resources mentioned are beginner friendly. If you're looking for intermediate to advanced resources check out [CryptoDevHub](https://cryptodevhub.io/wiki), [useWeb3](https://www.useweb3.xyz/), [Ethereum.org](https://ethereum.org/en/developers/docs/) or contact any of the authors of this guide for any specific doubts.
 
 ---
 
@@ -80,4 +80,4 @@ This guide will encompass everything you need to start investing in Cryptocurren
 - [Etherscan](https://etherscan.io/)
   -  Blockchain explorer for Ethereum mainnet and testnets.
 
-> Note: Recommend using Remix before you finish a course properly and ony then start developing locally. You'll need [Node](https://nodejs.org/en/) installed to work locally. 
+> Note: Recommend using Remix before you finish a course properly and ony then start developing locally. You'll also need [Node](https://nodejs.org/en/) installed to work locally. 
