@@ -5,6 +5,11 @@ This guide will encompass everything you need to start investing in Cryptocurren
 > Note: This is a guide to start learning blockchain development so all the resources mentioned are beginner friendly. If you're looking for intermediate to advanced resources check out [CryptoDevHub](https://cryptodevhub.io/wiki), [useWeb3](https://www.useweb3.xyz/), [Ethereum.org](https://ethereum.org/en/developers/docs/) or contact any of the authors of this guide for any specific doubts.
 
 ---
+### Articles to get started with
+- https://winklevosscapital.com/the-case-for-500k-bitcoin/ Start with this this. The Winklevoss twins compare bitcoin with other stores of value and make their case for why they think bitcoin will hit $500,000.
+- https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1 Another article to get started with bitcoin
+- https://balajis.com/why-india-should-buy-bitcoin/ One of the biggest figures in crypto on why India should buy  bitcoin
+- https://breedlove22.medium.com/an-open-letter-to-ray-dalio-re-bitcoin-4b07c52a1a98 an open letter written by Bitcoin philosopher, investor, guru, Robert Breedlove to the most successful capitalist, Ray Dalio. Very long article but covers a lot of depth and breadth.
 
 ## What is a Blockchain?
 
@@ -16,6 +21,9 @@ This guide will encompass everything you need to start investing in Cryptocurren
   - Video tutorials on how a blockchain works. Watch the videos serially.
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) 
   - 26 mins long Youtube video explaining what Bitcoin & a blockchain is.
+- https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn A very popular and  impartial take on Bitcoin and money provided by MIT opencourseware. The course is taken by the current SEC Chairman, Gary Gensler. This course has been recommended by the biggest names in crypto like Michael Saylor/
+- https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=f0cd1711a199bcee2fa2ce045ec52730&position=1  Edx course made by the students of Berkeley. If you are a beginner who wants to know the technical nitty gritties of bitcoin this course is for you
+- https://www.edx.org/course/blockchain-technology?index=product&queryID=fe639b3f74aeb2ed6fee5deda8cb3d25&position=2 Another EdX course which caters to all around blockchain technical knowledge instead of just bitcoin. Recommend finishing the Berkeley bitcoin course first before moving onto this.
 
 ### Important Cryptography terms
 
@@ -36,6 +44,13 @@ This guide will encompass everything you need to start investing in Cryptocurren
   - 15 mins long Youtube video by Finematics.
 
 ---
+### Podcast episodes
+- The Pomp Podcast with Robert Breedlove : https://open.spotify.com/episode/5KeQgxjGcdX2kfFT6VlxLq?si=xg9cz618Tjeik622AbN0gg This is the mother of all bitcoin basics episode. Covers everything from the basics of money to history of money to everything. Really is a Beginner's episode.  
+- The Tim Ferris Show: Episode 504 with Vitalik Buterin  https://open.spotify.com/episode/5fuiS0ZmMxuUp7kpbO0M8J?si=WbwP6eUZQcmaR73wBxnk4w 
+- Vitalik Buterin on The Lex Fridman Podcast on ETH 2.0 https://open.spotify.com/episode/6cH6YYoF96tUo6G1bCZyTI?si=9O_PsQUWTN-9mVid2Mz19w ( listen to this episode after you have a basic understanding of ethereum)
+- The Tim Ferris Show with Chris Dixon and Naval Ravikant about Web 3.0 : https://open.spotify.com/episode/3U4wMKyvMUhB83qf8FaA3I?si=GkH3adRPQqWPQ7DFUKXIdQ 
+- Lex Fridman Podcast: Robert Breedlove on the philosphy of bitcoin from first principles : https://open.spotify.com/episode/4sxOV3BBXl2vubT2t2emOg?si=ybQAi0cqSlehxd_t2rwD5w
+
 
 ## Learn Solidity
 - [CryptoZombies](https://cryptozombies.io/) 
@@ -80,4 +95,4 @@ This guide will encompass everything you need to start investing in Cryptocurren
 - [Etherscan](https://etherscan.io/)
   -  Blockchain explorer for Ethereum mainnet and testnets.
 
-> Note: Recommend using Remix before you finish a course properly and ony then start developing locally. You'll also need [Node](https://nodejs.org/en/) installed to work locally. 
+> Note: Recommend using Remix before you finish a course properly and only then start developing locally. You'll also need [Node](https://nodejs.org/en/) installed to work locally. 
