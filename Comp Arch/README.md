@@ -1,5 +1,3 @@
-# Welcome to StackEdit!
-
 ### Introductory Courses 
 
 -   [CS 61C at UC Berkeley ( Comp Arch Course in UCB)](https://cs61c.org/fa19/)
