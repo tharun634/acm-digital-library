@@ -9,4 +9,4 @@ ACM Digital Library
 - [Kaaryavarta](Kaaryavarta/)
   - [Cryptocurrency](Kaaryavarta/Cryptocurrency/)
 - [Web Development](Web%20Development/)
-- [Computer Architecture](Comp Arch/)
+- [Computer Architecture](Comp%20Arch/)
