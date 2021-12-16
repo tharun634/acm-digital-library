@@ -1,6 +1,5 @@
 # Signal Processing
-Signal Processing is a broad and evergrowing field concerned with the manipulation and analysis of both analog and digital signals. The technology we use, 
-and rely on, in our everyday lives–including computers, radios, video devices, cell phones, smart connected devices and more–is enabled by signal processing. 
+Signal Processing is a broad and evergrowing field concerned with the manipulation and analysis of both analog and digital signals. The technologies we use in our everyday lives–radios, video devices, cell phones, smart connected devices and more–are enabled by signal processing. 
 
 Recently, machine learning techniques have been applied to aspects of signal processing, blurring the lines between the sciences, and causing many shared 
 applications between the two.
