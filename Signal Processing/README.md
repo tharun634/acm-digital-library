@@ -5,7 +5,7 @@ Recently, machine learning techniques have been applied to aspects of signal pro
 applications between the two.
 
 Signal Processing requires strong basics in Signals and Systems and Fourier.
-* The book [Signals and Systems by Oppenheim, Willisky, Hamid](https://github.com/poorvishm/proj/blob/master/Resources/Signals%20and%20Systems.pdfhttps://github.com/poorvishm/acm-digital-library/blob/main/Signal%20Processing/Resources/Signals%20and%20Systems.pdf) along with [Oppenheim's MIT Lectures](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/), will help in understanding the fundamentals. 
+* The book [Signals and Systems by Oppenheim, Willisky, Hamid](https://github.com/poorvishm/acm-digital-library/blob/517e29fcb3c91519c8ea2beeabf0e319423b27a2/Signal%20Processing/Resources/Signals%20and%20Systems.pdf) along with [Oppenheim's MIT Lectures](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/), will help in understanding the fundamentals. 
 
 Once, the above concepts are clear, one can get started with Digital Signal Processing.
 * [Digital Signal Processing](https://www.coursera.org/specializations/digital-signal-processing): This course starts from the basic concepts of discrete-time signals 
