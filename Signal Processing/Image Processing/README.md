@@ -8,8 +8,7 @@ It involves 3 basic steps:
 * Get an output which is a modified form of the image or a report that is based on the image analysis
 
 Resources to get started:
-* [Image Processing with OpenCV](https://towardsdatascience.com/understanding-the-basics-of-digital-image-processing-and-computer-vision-using-opencv-8bc0e67243c8): A short on how
-is an image represented and the types of images along with an introduction to the most common tool for IP - OpenCV.
+* [Image Processing with OpenCV](https://towardsdatascience.com/understanding-the-basics-of-digital-image-processing-and-computer-vision-using-opencv-8bc0e67243c8): A short article on how an image represented and the types of images along with an introduction to the most common tool for IP - OpenCV.
 * [Digital Image Processing](https://nptel.ac.in/courses/117/105/117105135/): The nptel lecture series covers basics of image dgitization to colour image processing 
 * [Image Processing Algorithms and tools](https://neptune.ai/blog/image-processing-in-python-algorithms-tools-and-methods-you-should-know): A short read that covers classic image
 processing algorithms and tools (For anyone who is familiar with Neural Nets and Fourier).
