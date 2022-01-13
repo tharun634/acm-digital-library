@@ -23,19 +23,19 @@ In a Laplace Transform, if the input is represented by R(s) and the output is re
 
 ### Representation of Control Systems
 Control systems are represented in two main ways, which are as follows:
-   * Block Diagrams : Here, a control system is represented by blocks to depict it pictorially. Block diagrams contain blocks (which represent the transfer function and have one input and one output), take-off point (representing branching of signals) and summation points (which depict an algebraic summation of two or more input signals to one output signal).
+   * Block Diagrams : Here, a control system is represented by blocks to depict it pictorially. Block diagrams contain blocks (which represent the transfer function and have one input and one output), take-off point (representing branching of signals) and summation points (which depict an algebraic summation of two or more input signals to one output signal).\
    ![image](https://user-images.githubusercontent.com/72137415/148892599-cfa0f187-9c33-4378-ac39-333fe9a0d379.png) \
    More on block diagrams can be read here:
-   https://www.javatpoint.com/control-system-block-diagram \
+   [Block Diagrams](https://www.javatpoint.com/control-system-block-diagram) \
    The link above also provides a detailed discussion on block diagram reduction methods. This is essential when the system is big and the overall transfer function has to be calculated, or the system has to be simplified.
    
    * Signal Flow Graphs : While block diagram reduction is the excellent method for determining the transfer function of the control system. However, in a complicated system, it is very difficult and time-consuming process that is why an alternate method, i.e., SFG was developed by S.J Mason which relates the input and output system variables graphically. In the signal flow graph, the transfer function is referred to as transmittance.
    SFG is a graphical representation of the relationship between the variables of a set of linear algebraic equations. It doesn't require any reduction technique or process.\
    ![image](https://user-images.githubusercontent.com/72137415/148914805-039d2996-958f-478f-a005-e6a2a7a80e89.png) \
-   The transfer function and overall gain of the system represented using a signal flow diagram is calculated using Mason's Gain Formula. It may appear slightly complicated to look at but with a few examples it is possible to understand it easily. Both the formula and an example explaining how to use it, are given in the link here : https://www.tutorialspoint.com/control_systems/control_systems_masons_gain_formula.htm 
+   The transfer function and overall gain of the system represented using a signal flow diagram is calculated using Mason's Gain Formula. It may appear slightly complicated to look at but with a few examples it is possible to understand it easily. Both the formula and an example explaining how to use it, are given in the link here : [Mason's Gain Formula](https://www.tutorialspoint.com/control_systems/control_systems_masons_gain_formula.htm)
    
    More on signal flow graphs can be found here:  
-   https://www.tutorialspoint.com/control_systems/control_systems_signal_flow_graphs.htm
+  [Signal Flow Graphs](https://www.tutorialspoint.com/control_systems/control_systems_signal_flow_graphs.htm)
 
 
 ### Order of a system
@@ -49,8 +49,8 @@ Time domain analysis of a system aims to evaluate a system's response with respe
 * Steady state response : The response of the system a long time after the input is applied, is called the steady state response.
 ![image](https://user-images.githubusercontent.com/72137415/148953526-b94e549d-60ef-48ce-9737-3ae3987fdd47.png)
 
-The response of first-order systems to various inputs is discussed in this link: https://www.tutorialspoint.com/control_systems/control_systems_response_first_order.htm \
-Similarly, for second-order systems, the responses to various inputs are discussed here: https://www.tutorialspoint.com/control_systems/control_systems_response_second_order.htm
+The response of first-order systems to various inputs is discussed in this link: [First Order Systems](https://www.tutorialspoint.com/control_systems/control_systems_response_first_order.htm) \
+Similarly, for second-order systems, the responses to various inputs are discussed here: [Second Order Systems](https://www.tutorialspoint.com/control_systems/control_systems_response_second_order.htm)
 
 
 ### Stability Analysis
@@ -69,24 +69,25 @@ Here, z represents zeroes, and p represents poles. The value of s for which the 
 The roots of the numerator can be represented as -z1, -z2, -z3... -zm, which are known as zeroes.
 The poles with the negative real part on the left half of the s-plane are considered poles of a stable system. Thus, we can say that a stable system has a closed-loop transfer function with poles lying only in the left half of the s-plane.
 A system is unstable if a pole or more than one pole is present on the right half of the s-plane or poles lying on the imaginary axis.
+
 ### Routh Harwitz Criteria for stability of a system
 Routh Hurwitz criterion states that any system can be stable if and only if all the roots of the first column have the same sign and if it does not has the same sign or there is a sign change then the number of sign changes in the first column is equal to the number of roots of the characteristic equation in the right half of the s-plane i.e. equals to the number of roots with positive real parts.
-The demonstration of the criterion along with an example is given in the following link: https://www.javatpoint.com/control-system-routh-hurwitz-stability-criterion
+The demonstration of the criterion along with an example is given in the following link: [Routh Harwitz Stability Criteria](https://www.javatpoint.com/control-system-routh-hurwitz-stability-criterion)
 
 ### Frequency Analysis
 The response of a system can be partitioned into both the transient response and the steady state response. We can find the transient response by using Fourier integrals. The steady state response of a system for an input sinusoidal signal is known as the frequency response.\
 If a sinusoidal signal is applied as an input to a Linear Time-Invariant (LTI) system, then it produces the steady state output, which is also a sinusoidal signal. The input and output sinusoidal signals have the same frequency, but different amplitudes and phase angles.
 The frequency response of a system can be understood using various different tools which are given below. Click on the links to find out in detail about each tool.
-   * Bode Plots :  https://www.tutorialspoint.com/control_systems/control_systems_bode_plots.htm
-   * Polar Plots : https://www.tutorialspoint.com/control_systems/control_systems_polar_plots.htm
-   * Nyquist Plots : https://www.tutorialspoint.com/control_systems/control_systems_nyquist_plots.htm
+   * [Bode Plots](https://www.tutorialspoint.com/control_systems/control_systems_bode_plots.htm)
+   * [Polar Plots](https://www.tutorialspoint.com/control_systems/control_systems_polar_plots.htm)
+   * [Nyquist Plots](https://www.tutorialspoint.com/control_systems/control_systems_nyquist_plots.htm)
 
 ### Root Locus Plots 
 The root locus method was introduced by W.R Evans in 1948. Root locus is a graphical method in which the movement of poles in the s-plane can be located when a specific parameter is varied from 0 to infinity. The parameter assumed to be varied is generally the gain of the system.
 Root locus plots are plots that are created when the locus of the roots of the characteristic equation by varying system gain K from zero to infinity are plotted on a polar plot.
 Root locus is used to calculate the damping ratio, natural frequency of a system as well as design PID controllers and lead and lag compensators. 
 More about root locus plots and plotting them can be seen in the following link:
-https://www.tutorialspoint.com/control_systems/control_systems_root_locus.htm
+[Root Locus Plots](https://www.tutorialspoint.com/control_systems/control_systems_root_locus.htm)
 
 # Resources can be found here:
   * https://www.tutorialspoint.com/control_systems/control_systems_introduction.htm
