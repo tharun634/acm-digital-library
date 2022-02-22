@@ -1,0 +1,2 @@
+# Overview
+Deals with the electronic manipulation of numbers, or with the manipulation of varying quantities by means of numbers. Because it is convenient to do so, today’s digital systems deal only with the numbers ‘zero’ and ‘one’, because they can be represented easily by ‘off and ‘on’ within a circuit.A digital circuit is often constructed from small electronic circuits called logic gates that can be used to create combinational logic. Each logic gate represents a function of boolean logic.
